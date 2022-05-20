@@ -1,0 +1,5 @@
+Libro,Idioma,Reflexión
+El Principito,Español,"Sentimientos, Esperanza"
+Pinocho,English y Español,Respeto y Amistado
+Cenicienta,English y Aleman,Amistad y Trabajo domestico
+El Pulgarcito,Español y Russo,Astusia y Inteligecia
